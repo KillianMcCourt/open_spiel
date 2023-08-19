@@ -31,6 +31,7 @@ EXPECTED_GAMES = frozenset([
     "battleship",
     "blackjack",
     "blotto",
+    "brandbuh",
     "breakthrough",
     "bridge",
     "bridge_uncontested_bidding",
